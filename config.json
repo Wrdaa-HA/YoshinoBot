@@ -1,12 +1,12 @@
 {
-  "ownerNumber": "6281575886399@s.whatsapp.net",
-  "pairingNumber": "masukin nomer yang ingin dijadikan bot",
+  "ownerNumber": "6285939391878@s.whatsapp.net",
+  "pairingNumber": "6285939391878",
   "ownerName": "rc",
   "botName": "Yoshino Bot",
   "packname": "follow",
   "author": "@riycoders",
   "pathimg": "./media/yoshino.jpg",
-  "apikey": {
+  "apikey": { "sk-tsx6pnzx6hjgg3zsm",
     "xcode": "ambil apikey disini : https://api.xcodeteam.xyz"
   },
   "hmm": {
