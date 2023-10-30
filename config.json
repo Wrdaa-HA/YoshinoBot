@@ -1,22 +1,22 @@
 {
   "ownerNumber": "6285939391878@s.whatsapp.net",
   "pairingNumber": "6285939391878",
-  "ownerName": "rc",
-  "botName": "Yoshino Bot",
+  "ownerName": "R. Wardaa",
+  "botName": "Wardaa Bot",
   "packname": "follow",
-  "author": "@riycoders",
+  "author": "@rullcoders",
   "pathimg": "./media/yoshino.jpg",
   "apikey": { "sk-tsx6pnzx6hjgg3zsm",
-    "xcode": "ambil apikey disini : https://api.xcodeteam.xyz"
+    "xcode": "sk-tsx6pnzx6hjgg3zsm"
   },
   "hmm": {
-    "yt": "https://youtube.com/@riycoders",
-    "ig": "https://instagram.com/riycoders",
+    "yt": "https://youtube.com/@rull_dvinzi",
+    "ig": "https://instagram.com/rull_dvinzi",
     "linkmenu": "https://chat.whatsapp.com/KShSydBXuPBIx0eeWgl7gY"
   },
   "donasi": {
-	"dana": "081575886399",
-	"gopay": "081575886399"
+	"dana": "6285939391878",
+	"gopay": "6285939391878"
   },
   "gamewaktu": 90,
   "limitCount": 25,
